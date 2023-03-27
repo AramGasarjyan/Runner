@@ -81,4 +81,9 @@ public class Road : MonoBehaviour
         Obstacle obstacle = Instantiate(container.ObstaclePrefab, container.GetTransform(randomPointIndex));
         _obstacles.Add(obstacle);
     }
+
+    public void SetFillPercent(float value)
+    {
+        fillPercent = value;
+    }
 }

@@ -161,4 +161,9 @@ public class PlayerMovement : MonoBehaviour
     {
         playerAnimator.SetState(state, value);
     }
+
+    public void SetMovementSpeed(float speed)
+    {
+        movementSpeed = speed;
+    }
 }

@@ -12,6 +12,8 @@ namespace DefaultNamespace.Runner.UI
         [SerializeField] private Button aboutButton;
         [SerializeField] private Button quitButton;
         [SerializeField] private TextMeshProUGUI versionText;
+        [SerializeField] private AboutView _aboutView;
+        [SerializeField] private SettingsView _settingsView;
 
 
         public override void Init()
@@ -45,14 +47,17 @@ namespace DefaultNamespace.Runner.UI
 
         private void OnPlayButtonClicked()
         {
+
         }
 
         private void OnSettingsButtonClicked()
         {
+            _settingsView.Show(true);
         }
 
         private void OnAboutButtonClicked()
         {
+            _aboutView.Show(true);
         }
 
         private void OnQuitButtonClicked()

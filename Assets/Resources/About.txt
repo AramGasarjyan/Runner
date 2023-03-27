@@ -1,0 +1,5 @@
+Endless Runner is a thrilling and exciting runner game that was created by the students of the Armenian Code Academy's Game Development Courses. This game is designed to test the player's agility, reflexes, and strategic thinking as they navigate through an endless, obstacle-filled environment.
+
+In Endless Runner, players take on the role of a character who must run, jump, and slide their way through a never-ending series of obstacles, collecting coins and power-ups along the way. The game features simple, intuitive controls that allow players to quickly pick up and start playing, but also offer a degree of challenge and depth that will keep even the most experienced gamers engaged.
+
+One of the standout features of Endless Runner is its beautifully designed graphics and immersive sound effects. The game's colorful and detailed environments transport players to a world filled with danger and adventure, while its dynamic soundtrack and realistic sound effects make every jump and dodge feel like a pulse-pounding thrill ride.
